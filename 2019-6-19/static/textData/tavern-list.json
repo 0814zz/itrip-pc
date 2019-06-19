@@ -1,0 +1,105 @@
+{
+  "recommend":{
+   "first":[
+     {
+       "src":"static/images/img/jiudian.png",
+       "title":"北京盘古七星酒店",
+       "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+       "fraction":"4.7",
+       "user":"98%",
+       "people":"1653",
+       "price":"2059"
+     }
+   ],
+    "second":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ],
+    "third":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ],
+    "four":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ],
+    "five":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ],
+    "six":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ],
+    "seven":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ],
+    "eight":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ],
+    "nine":[
+      {
+        "src":"static/images/img/jiudian.png",
+        "title":"北京盘古七星酒店",
+        "txt":"朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+        "fraction":"4.7",
+        "user":"98%",
+        "people":"1653",
+        "price":"2059"
+      }
+    ]
+  }
+
+
+}
