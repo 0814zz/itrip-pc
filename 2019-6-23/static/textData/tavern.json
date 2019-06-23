@@ -1,0 +1,115 @@
+{
+  "overseas": {
+    "leftSrc": "static/images/img/tavern/haiwai/haiwai.png",
+    "urlImg": [
+      {
+        "title": "曼谷盛泰澜中央世界 …",
+        "money": "639",
+        "src":"static/images/img/tavern/haiwai/haiwai01.png"
+      },
+      {
+        "title": "曼谷悦榕庄 …",
+        "money": "702",
+        "src":"static/images/img/tavern/haiwai/yrz.jpg"
+      },
+      {
+        "title": "曼谷皇家大酒店 …",
+        "money": "353",
+        "src":"static/images/img/tavern/haiwai/hjdjd.jpg"
+      },
+      {
+        "title": "曼谷双子塔酒店 …",
+        "money": "223",
+        "src":"static/images/img/tavern/haiwai/szt.jpg"
+      },
+      {
+        "title": "曼谷班达拉套房酒店…",
+        "money": "368",
+        "src":"static/images/img/tavern/haiwai/bdl.jpg"
+      },
+      {
+        "title": "曼谷钻石之城酒店…",
+        "money": "256",
+        "src":"static/images/img/tavern/haiwai/zszc.jpg"
+      }
+    ]
+  },
+  "city":{
+    "leftSrc":"static/images/img/tavern/remen/remen.png",
+    "urlImg":[
+      {
+        "title":"上海南青华美达酒店 …",
+        "money":"426",
+        "src":"static/images/img/tavern/remen/qhmd.jpg"
+      },
+      {
+        "title":"上海浦东四季酒店 …",
+        "money":"1510",
+        "src":"static/images/img/tavern/remen/sjjd.jpg"
+      },
+      {
+        "title":"杨建华大酒店 …",
+        "money":"229",
+        "src":"static/images/img/tavern/remen/yjhdjd.jpg"
+      },
+      {
+        "title":"上海宝安大酒店 …",
+        "money":"399",
+        "src":"static/images/img/tavern/remen/badjd.jpg"
+      },
+      {
+        "title":"上海璞丽酒店 …",
+        "money":"1877",
+        "src":"static/images/img/tavern/remen/pljd.jpg"
+      },
+      {
+        "title":"桔子水晶酒店 …",
+        "money":"562",
+        "src":"static/images/img/tavern/remen/jzjd.jpg"
+      }
+    ]
+  },
+  "quarter":{
+    "leftSrc":"static/images/img/tavern/djrm/djrm.png",
+    "urlImg":[
+      {
+        "title":"凤凰山",
+        "money":"156",
+        "room":"109",
+        "src":"static/images/img/tavern/djrm/fhs.jpg"
+
+      },
+      {
+        "title":"盘山",
+        "money":"109",
+        "room":"362",
+        "src":"static/images/img/tavern/djrm/ps.jpg"
+      },
+      {
+        "title":"黄山",
+        "money":"156",
+        "room":"109",
+        "src":"static/images/img/tavern/djrm/huangshan.jpg"
+      },
+      {
+        "title":"华山",
+        "money":"126",
+        "room":"180",
+        "src":"static/images/img/tavern/djrm/hs.jpg"
+      },
+      {
+        "title":"雾灵山",
+        "money":"139",
+        "room":"196",
+        "src":"static/images/img/tavern/djrm/wls.jpg"
+      },
+      {
+        "title":"泰山",
+        "money":"109",
+        "room":"0",
+        "src":"static/images/img/tavern/djrm/djrm01.png"
+      }
+    ]
+  }
+
+}
