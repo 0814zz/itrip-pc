@@ -1,0 +1,53 @@
+{
+  "guide": [
+    {
+      "srcImg": "static/images/img/guide268207_0310.jpg",
+      "title":"宽窄巷子",
+      "rankingImg": "static/images/icon/guide-item-icon4020_0310_07.png",
+      "ranking":"1",
+      "score": "4.9",
+      "txt": "有“最成都”之称，这里有很多的特色小店和小吃街来自 一世繁华 的点评"
+    },
+    {
+      "srcImg": "static/images/img/jinli_0310.png",
+      "title":"锦里",
+      "rankingImg": "static/images/icon/guide-item-icon4020_0310_07.png",
+      "ranking":"2",
+      "score": "4.7",
+      "txt": "第一次到成都，就迫不及待的去了一趟锦里，古...来自 Pokyu 的点评"
+    },
+    {
+      "srcImg": "static/images/img/dujiangyan_0310.jpg",
+      "title":"都江宴",
+      "rankingImg": "static/images/icon/guide-item-icon4020_0310_07.png",
+      "ranking":"3",
+      "score": "4.9",
+      "txt": "都江堰是著名的旅游区，景色秀丽，文物古迹众多...来自 Dover 的点评"
+    },
+    {
+      "srcImg": "static/images/img/dufu_0310_03.jpg",
+      "title":"杜甫草堂",
+      "rankingImg": "static/images/icon/guide-item-icon4020_0310_07.png",
+      "ranking":"4",
+      "score": "4.6",
+      "txt": "这里是比较幽静的地方，树木繁多，环境也很不错...来自 LL享旅 的点评"
+    },
+    {
+      "srcImg": "static/images/img/dufu_0310_03.jpg",
+      "title":"青城山",
+      "rankingImg": "static/images/icon/guide-item-icon4020_0310_07.png",
+      "ranking":"5",
+      "score": "4.5",
+      "txt": "自为青城客，不唾青城池水。唯爱丈人山，丹梯近...来自 大鱼吃小鱼 的点评"
+    },
+    {
+      "srcImg": "static/images/img/huagnlong_0310_03.jpg",
+      "title":"黄龙溪古镇",
+      "rankingImg": "static/images/icon/guide-item-icon4020_0310_07.png",
+      "ranking":"6",
+      "score": "4.4",
+      "txt": "青石板铺就的街面，木拄青瓦的楼阁房舍，镂刻精...来自 firefly 的点评"
+    }
+
+  ]
+}
