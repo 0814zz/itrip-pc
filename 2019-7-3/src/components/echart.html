@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="../../static/js/echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 600px;height:400px;"></div>
+<script type="text/javascript">
+  // 基于准备好的dom，初始化echarts实例
+  var myChart = echarts.init(document.getElementById('main'));
+
+  // var line = echarts.init($("#flodline"));
+  var option = ({
+    title: {
+      x: 'center',
+      text: '成都最近1~2月各旅游景点人数',
+      textStyle: {
+        fontSize: '18',
+        color: '#4c4c4c',
+        fontWeight: 'bolder'
+      }
+    },
+    tooltip: {
+      trigger: 'axis'
+    },
+    toolbox: {
+      show: true,
+      feature: {
+        dataZoom: {
+          yAxisIndex: 'none'
+        },
+        dataView: {readOnly: false},
+        magicType: {type: ['line', 'bar']}
+      }
+    },
+    xAxis: {
+      type: 'category',
+      boundaryGap: false,
+      data: ['03-01', '03-10', '03-20', '03-30', '04-01', '04-10', '04-20', '04-30', '05-01', '05-10', '05-20', '05-30'],
+      axisLabel: {
+        interval: 0
+      }
+    },
+    yAxis: {
+      type: 'value'
+    },
+    series: [
+      {
+        name: '杜甫草堂',
+        type: 'line',
+        data: [723, 642, 618, 745, 648, 649, 700, 745, 618, 765, 779, 600],
+        itemStyle: {
+          normal: {
+            lineStyle: {
+              color: '#6be6c1'
+            }
+          }
+        },
+        markLine: {data: [{type: 'average', name: '平均值'}]}
+      },
+      {
+        name: '都江堰',
+        type: 'line',
+        data: [443, 352, 418, 345, 448, 349, 300, 352, 418, 445, 348, 449, 300],
+        itemStyle: {
+          normal: {
+            lineStyle: {
+              color: '#626c91'
+            }
+          }
+        },
+        markLine: {data: [{type: 'average', name: '平均值'}]}
+      }
+      ,
+      {
+        name: '黄龙溪古镇 ',
+        type: 'line',
+        data: [143, 452, 718, 885, 848, 890, 900, 972, 998, 825, 888, 949, 800],
+        itemStyle: {
+          normal: {
+            lineStyle: {
+              color: '#3fb1e3'
+            }
+          }
+        },
+        markLine: {data: [{type: 'average', name: '平均值'}]}
+      }
+    ]
+  });
+  myChart.setOption(option);
+</script>
+</body>
+</html>

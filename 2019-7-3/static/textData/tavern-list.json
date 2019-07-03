@@ -1,0 +1,85 @@
+{
+  "recommend": [
+    {
+      "src": "static/images/img/jiudian.png",
+      "title": "北京盘古七星酒店",
+      "txt": "朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+      "fraction": "4.7",
+      "user": "98%",
+      "people": "1653",
+      "price": "2059"
+    },
+    {
+      "src": "static/images/img/holist01_0316.jpg",
+      "title": "北京北辰亚运村宾馆",
+      "txt": "朝阳区北辰东路8号东侧，近北辰购物中心。 【 亚运村、奥体中心地区】",
+      "fraction": "4.3",
+      "user": "92%",
+      "people": "2536",
+      "price": "368"
+    },
+    {
+      "src": "static/images/img/holist02_0316.jpg",
+      "title": "北京国奥村花园酒店",
+      "txt": "朝阳区林萃东路1号院甲1号楼，与科荟东路的交汇处。 【 亚运村、奥体中心地区】",
+      "fraction": "4.6",
+      "user": "96%",
+      "people": "1530",
+      "price": "869"
+    },
+    {
+      "src": "static/images/img/holist03_0316.jpg",
+      "title": "北京国奥村花园酒店",
+      "txt": "朝阳区林萃东路1号院甲1号楼，与科荟东路的交汇处。 【 亚运村、奥体中心地区】",
+      "fraction": "4.6",
+      "user": "96%",
+      "people": "1633",
+      "price": "869"
+    },
+    {
+      "src": "static/images/img/holist04_0316.jpg",
+      "title": "北京凯迪克格兰云天大酒店",
+      "txt": "朝阳区北辰东路18号，近北京奥运会主会场－鸟巢。 【 亚运村、奥体中心地区】",
+      "fraction": "4.8",
+      "user": "98%",
+      "people": "2930",
+      "price": "627"
+    },
+    {
+      "src": "static/images/img/holist05_0316.jpg",
+      "title": "北京凯迪克格兰云天大酒店",
+      "txt": "朝阳区北辰东路18号，近北京奥运会主会场－鸟巢。 【 亚运村、奥体中心地区】",
+      "fraction": "4.8",
+      "user": "98%",
+      "people": "2930",
+      "price": "627"
+    },
+    {
+      "src": "static/images/img/holist06_0316.jpg",
+      "title": "北京亚运村鸟巢和颐酒店",
+      "txt": "朝阳区亚运村小营西路11号惠新东桥北，近鸟巢、水立方、国家会议中心。 【 亚运村、奥体中心地区】",
+      "fraction": "4.6",
+      "user": "97%",
+      "people": "968",
+      "price": "384"
+    },
+    {
+      "src": "static/images/img/holist07_0316.jpg",
+      "title": "北京长白山国际酒店",
+      "txt": "朝阳区亚运村安苑北里25号，近奥林匹克体育中心。 【 亚运村、奥体中心地区】",
+      "fraction": "4.5",
+      "user": "95%",
+      "people": "2011",
+      "price": "720"
+    },
+    {
+      "src": "static/images/img/jiudian2.png",
+      "title": "北京盘古七星酒店",
+      "txt": "朝阳区北四环中路27号，盘古大观，近奥运村国家体育馆。 【 亚运村、 奥体中心地区】",
+      "fraction": "4.7",
+      "user": "98%",
+      "people": "1653",
+      "price": "2059"
+    }
+  ]
+}
