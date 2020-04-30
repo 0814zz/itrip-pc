@@ -14,7 +14,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.9.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.5.2",
     "vue-accordion": "^1.0.0",
     "vue-router": "^3.0.1",
